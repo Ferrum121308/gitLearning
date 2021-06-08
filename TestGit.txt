@@ -2,3 +2,4 @@ Hello Git!
 edition:1.0
 modifyTime:15:56
 master changed!
+hot-fix changed!
